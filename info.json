@@ -1,0 +1,255 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://icloudco.com/",
+            "path": "index.html",
+            "saved": true,
+            "size": 9516,
+            "children": [
+                {
+                    "url": "https://icloudco.com/%E6%B5%8B%E8%AF%95",
+                    "saved": false
+                },
+                {
+                    "url": "https://icloudco.com/%E6%B5%8B%E8%AF%95",
+                    "saved": false
+                },
+                {
+                    "url": "https://icloudco.com/%E6%B5%8B%E8%AF%95",
+                    "saved": false
+                },
+                {
+                    "url": "https://icloudco.com/%E6%B5%8B%E8%AF%95",
+                    "saved": false
+                },
+                {
+                    "url": "https://icloudco.com/%E6%B5%8B%E8%AF%95",
+                    "saved": false
+                },
+                {
+                    "url": "https://icloudco.com/%E6%B5%8B%E8%AF%95",
+                    "saved": false
+                },
+                {
+                    "url": "https://icloudco.com/%E6%B5%8B%E8%AF%95",
+                    "saved": false
+                },
+                {
+                    "url": "https://icloudco.com/%E6%B5%8B%E8%AF%95",
+                    "saved": false
+                },
+                {
+                    "url": "https://icloudco.com/img/qq.png",
+                    "path": "img/qq.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://icloudco.com/js/filemail.js",
+                    "path": "js/filemail.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://icloudco.com/js/commons.js?v=75bc4b35",
+                    "path": "js/commons.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://icloudco.com/js/index.js?v=741400f6",
+                    "path": "js/index.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://icloudco.com/css/commons.css?v=75bc4b3553583add77b8",
+                    "path": "css/commons.css",
+                    "saved": true,
+                    "size": 100384,
+                    "children": [
+                        {
+                            "url": "https://icloudco.com/images/logo.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://img-xyx-ssl.a.88cdn.com/filemail/assets/img/bg-fdc13.jpg",
+                            "path": "img/bg-fdc13.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://img-xyx-ssl.a.88cdn.com/filemail/assets/img/ic_spr-47574.png",
+                            "path": "img/ic_spr-47574.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://img-xyx-ssl.a.88cdn.com/filemail/assets/img/bg-96157.jpg",
+                            "path": "img/bg-96157.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://img-xyx-ssl.a.88cdn.com/filemail/assets/img/ani-27636.png",
+                            "path": "img/ani-27636.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://img-xyx-ssl.a.88cdn.com/filemail/assets/img/bgs-2533a.jpg",
+                            "path": "img/bgs-2533a.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://img-xyx-ssl.a.88cdn.com/filemail/assets/img/bg-60ae3.jpg",
+                            "path": "img/bg-60ae3.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://img-xyx-ssl.a.88cdn.com/filemail/assets/img/ic_cloud-4a5cc.png",
+                            "path": "img/ic_cloud-4a5cc.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://img-xyx-ssl.a.88cdn.com/filemail/assets/img/bg-0861c.jpg",
+                            "path": "img/bg-0861c.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://img-xyx-ssl.a.88cdn.com/filemail/assets/img/ani-1316d.png",
+                            "path": "img/ani-1316d.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://img-xyx-ssl.a.88cdn.com/filemail/assets/img/computer-ec593.png",
+                            "path": "img/computer-ec593.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://img-xyx-ssl.a.88cdn.com/filemail/assets/img/ic_spr-99597.png",
+                            "path": "img/ic_spr-99597.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://img-xyx-ssl.a.88cdn.com/filemail/assets/img/bg-f92a4.jpg",
+                            "path": "img/bg-f92a4.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://img-xyx-ssl.a.88cdn.com/filemail/assets/img/taste_bg-70f99.jpg",
+                            "path": "img/taste_bg-70f99.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://icloudco.com/img/ic_spr-47574.png",
+                            "path": "img/ic_spr-47574_1.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://icloudco.com/css/img/ic_path-80bac.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://icloudco.com/css/img/ic_line-8cb26.png",
+                            "saved": false
+                        }
+                    ]
+                },
+                {
+                    "url": "https://icloudco.com/wap/assets/img/icon.png",
+                    "path": "img/icon.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "icloudco-com-dgatbv6i",
+    "info": {
+        "remark": [],
+        "title": "云墨先生-稳定高速的网盘服务平台",
+        "domain": "icloudco.com",
+        "origin": "https://icloudco.com",
+        "ip": "34.150.79.132",
+        "main": "index.html",
+        "url": "https://icloudco.com/",
+        "totalSize": "110 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://icloudco.com/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://icloudco.com/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "etag": "W/\"6366364e-26bc\"",
+                "content-type": "text/html",
+                "date": "Sun, 06 Nov 2022 06:22:22 GMT",
+                "last-modified": "Sat, 05 Nov 2022 10:09:18 GMT",
+                "server": "nginx",
+                "strict-transport-security": "max-age=31536000",
+                "vary": "Accept-Encoding",
+                "x-cache": "HIT from kangle web server",
+                "content-length": "9916",
+                "connection": "close"
+            }
+        },
+        "time": {
+            "start": "2022-11-06T08:34:55.356Z",
+            "end": "2022-11-06T08:35:14.468Z"
+        }
+    },
+    "options": {
+        "url": "https://icloudco.com/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
